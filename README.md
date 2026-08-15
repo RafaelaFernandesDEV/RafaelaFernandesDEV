@@ -4,14 +4,14 @@
 
 >Filipenses 4:6: "Não andem ansiosos por coisa alguma, mas apresentem seus pedidos a Deus com ação de graças."
 
-**Desenvolvimento de Software** **Cibersegurança**
+**Desenvolvimento de Software | Cibersegurança**
 
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter (início em 12/2025), meu foco é em desenvolvimento de software e cibersegurança. Meu objetivo principal é desenvolver meus próprios projetos de software para enriquecer meu portifólio. Sou nascida e criada no Pará, curiosa e analítica. Amo desafios e busco constantemente aprimorar  minha capacidade autodidata.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-fernandes-486115410)
 
 ---
-##🤖 Stack
+## 🤖 Stack
 
 <img
     align="left"
@@ -58,26 +58,24 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter (iníci
 <br/>
 <br/>
 
-###📊 Estatísticas
+### 📊 Estatísticas
 
-<p align="center">
-    <nobr>
-
-<a href="https://github-stats-extended.vercel.app/api?username=RafaelaFernandesDEV&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple">
-
-<img 
-    alt="GitHub Stats"
-    height="100"
-    style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api?username=RafaelaFernandesDEV&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple&locale=pt-br"/>
-</a>
-
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaFernandesDEV&langs_count=5&hide_values=true&theme=shades-of-purple">
-
-<img
-    alt="GitHub Stats"
-    height="100"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaFernandesDEV&langs_=10&hide_values=true&theme=shades-of-purple&locale=pt-br&custom_title=Tecnologias"/>
-</a>
-</nobr>
-</p>
+<table align="center">
+    <tr>
+        <td align="center">
+        <a href="https://github-stats-extended.vercel.app/api?username=RafaelaFernandesDEV&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple">
+            <img 
+                alt="GitHub Stats"
+                height="200"
+                style="padding-right: 10px;"
+                src="https://github-stats-extended.vercel.app/api?username=RafaelaFernandesDEV&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple&locale=pt-br"/>
+        </a>
+        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaFernandesDEV&langs_count=5&hide_values=true&theme=shades-of-purple">
+            <img
+                alt="GitHub Stats"
+                height="200"
+                src="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaFernandesDEV&langs_=10&hide_values=true&theme=shades-of-purple&locale=pt-br&custom_title=Tecnologias"/>
+        </a>
+        </td>
+    </tr>
+<table/>
